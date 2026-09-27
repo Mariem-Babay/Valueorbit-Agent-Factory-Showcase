@@ -145,15 +145,25 @@ The broader lesson encoded in this iteration history: for a multi-tenant product
 > 🎥 **Loom walkthrough:** https://drive.google.com/file/d/1HxMInYVDgmHxKS32ob8F9OkvcLJQa1Ma/view?usp=sharing
 
 ## Screenshots
-
-> 🖼️ <img width="1037" height="877" alt="Capture d&#39;écran 2026-06-30 060513" src="https://github.com/user-attachments/assets/8a35b879-326a-4024-8d33-5a031580567f" />
-
-> 🖼️ <img width="909" height="574" alt="Capture d&#39;écran 2026-06-28 022441" src="https://github.com/user-attachments/assets/572ca1fe-308f-4dc1-b86b-5101e111ae8a" />
-
-> 🖼️ <img width="1541" height="653" alt="Capture d&#39;écran 2026-06-19 124003" src="https://github.com/user-attachments/assets/61b24206-d14f-424b-b3f6-1713468d9f7b" />
-
-> 🖼️ <img width="511" height="525" alt="Capture d&#39;écran 2026-05-10 015329" src="https://github.com/user-attachments/assets/14e4f4f6-008f-4c2d-93f0-85a0fe9c0dc9" />
-
-> 🖼️ <img width="1227" height="690" alt="Capture d&#39;écran 2026-06-19 192557" src="https://github.com/user-attachments/assets/38e529e7-8a30-45f1-bf16-54548cc67130" />
  
+<div align="center">
+<img width="800" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8a35b879-326a-4024-8d33-5a031580567f" />
+<br/><sub><em>[caption]</em></sub>
+<br/><br/>
+<img width="800" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b9a75eda-7434-4d6e-b4bc-3e211decc706" />
+<br/><sub><em>[caption]</em></sub>
+<br/><br/>
+<img width="800" alt="Screenshot 3" src="https://github.com/user-attachments/assets/572ca1fe-308f-4dc1-b86b-5101e111ae8a" />
+<br/><sub><em>[caption]</em></sub>
+<br/><br/>
+<img width="800" alt="Screenshot 4" src="https://github.com/user-attachments/assets/61b24206-d14f-424b-b3f6-1713468d9f7b" />
+<br/><sub><em>[caption]</em></sub>
+<br/><br/>
+<img width="800" alt="Screenshot 5" src="https://github.com/user-attachments/assets/14e4f4f6-008f-4c2d-93f0-85a0fe9c0dc9" />
+<br/><sub><em>[caption]</em></sub>
+<br/><br/>
+<img width="800" alt="Screenshot 6" src="https://github.com/user-attachments/assets/38e529e7-8a30-45f1-bf16-54548cc67130" />
+<br/><sub><em>[caption]</em></sub>
+</div>
+
 ---
