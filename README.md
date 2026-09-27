@@ -159,10 +159,13 @@ The broader lesson encoded in this iteration history: for a multi-tenant product
 <img width="800" alt="Screenshot 4" src="https://github.com/user-attachments/assets/61b24206-d14f-424b-b3f6-1713468d9f7b" />
 <br/><sub><em>[Dashboard preview]</em></sub>
 <br/><br/>
-<img width="800" alt="Screenshot 5" src="https://github.com/user-attachments/assets/14e4f4f6-008f-4c2d-93f0-85a0fe9c0dc9" />
+<img width="800" alt="Screenshot 5" src="https://github.com/user-attachments/assets/02616282-4bda-490a-b8e8-a07224ba47b8" />
 <br/><sub><em>[Extension]</em></sub>
 <br/><br/>
 <img width="800" alt="Screenshot 6" src="https://github.com/user-attachments/assets/38e529e7-8a30-45f1-bf16-54548cc67130" />
+<br/><sub><em>[Proposal exemple]</em></sub>
+<br/><br/>
+<img width="1233" height="680" alt="Capture d&#39;écran 2026-06-19 192346" src="https://github.com/user-attachments/assets/63651b6d-da6f-4725-bfa3-487a91ecfe8a" />
 <br/><sub><em>[Proposal exemple]</em></sub>
 </div>
 
