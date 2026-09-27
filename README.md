@@ -148,22 +148,22 @@ The broader lesson encoded in this iteration history: for a multi-tenant product
  
 <div align="center">
 <img width="800" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8a35b879-326a-4024-8d33-5a031580567f" />
-<br/><sub><em>[caption]</em></sub>
+<br/><sub><em>[Orbit Interface]</em></sub>
 <br/><br/>
 <img width="800" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b9a75eda-7434-4d6e-b4bc-3e211decc706" />
-<br/><sub><em>[caption]</em></sub>
+<br/><sub><em>[Agents Catalog]</em></sub>
 <br/><br/>
 <img width="800" alt="Screenshot 3" src="https://github.com/user-attachments/assets/572ca1fe-308f-4dc1-b86b-5101e111ae8a" />
-<br/><sub><em>[caption]</em></sub>
+<br/><sub><em>[Scraper exemple]</em></sub>
 <br/><br/>
 <img width="800" alt="Screenshot 4" src="https://github.com/user-attachments/assets/61b24206-d14f-424b-b3f6-1713468d9f7b" />
-<br/><sub><em>[caption]</em></sub>
+<br/><sub><em>[Dashboard preview]</em></sub>
 <br/><br/>
 <img width="800" alt="Screenshot 5" src="https://github.com/user-attachments/assets/14e4f4f6-008f-4c2d-93f0-85a0fe9c0dc9" />
-<br/><sub><em>[caption]</em></sub>
+<br/><sub><em>[Extension]</em></sub>
 <br/><br/>
 <img width="800" alt="Screenshot 6" src="https://github.com/user-attachments/assets/38e529e7-8a30-45f1-bf16-54548cc67130" />
-<br/><sub><em>[caption]</em></sub>
+<br/><sub><em>[Proposal exemple]</em></sub>
 </div>
 
 ---
